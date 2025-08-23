@@ -12,7 +12,7 @@ It demonstrates Object-Oriented Programming (OOP) concepts such as classes, obje
 🚪 Exit Option – Quit the system safely.
 
 🗂 Project Structure:
-ECommerceCartSystem.java
+ ECommerceCartSystem.java
 │
 ├── class Product
 │     ├── id (int)
